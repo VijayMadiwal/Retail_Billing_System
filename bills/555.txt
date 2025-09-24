@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 555
+
+Customer Name: asd
+
+Customer Phone Number: 123
+
+=======================================================
+Product  		Quantity			Price
+======================================================= 
+Hair Gel			2			160 Rs
+Daal			2			200 Rs
+Frooti			5			100 Rs
+-------------------------------------------------------
+Cosmetic Tax - 12%				19.2 Rs
+Grocery Tax  - 5%				10.0 Rs
+Drinks Tax   - 8%				8.0 Rs
+
+Total Bill 				 497.2
+-------------------------------------------------------

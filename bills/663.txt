@@ -1,0 +1,21 @@
+		**Welcome Customer**
+
+Bill Number: 663
+
+Customer Name: vijay madiwal
+
+Customer Phone Number: 9443226781
+
+=======================================================
+Product			Quantity			Price
+======================================================= 
+Rice			4			120 Rs
+Daal			2			200 Rs
+Maaza			2			100 Rs
+Sprite			2			90 Rs
+-------------------------------------------------------
+Grocery Tax  - 5%				16.0 Rs
+Drinks Tax   - 8%				15.200000000000001 Rs
+
+Total Bill 				 541.2
+-------------------------------------------------------
